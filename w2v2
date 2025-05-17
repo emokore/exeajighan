@@ -1,4 +1,4 @@
 bind "f13" "disconnect"
 bind "=" "toggleconsole
 fps_max_ui 70
-fps_max 70"
+fps_max 70
